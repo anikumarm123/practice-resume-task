@@ -1,0 +1,131 @@
+.container{
+    display: flex;
+    background-color:#801814;
+    width: 900px;
+    height: 250px; 
+}
+body{
+margin-left: auto;
+margin-right: auto;
+width: 1000px;
+}
+.demo2 a{
+    width: 300px;
+    line-height: 30px;
+    color: #fff;
+    margin-left: 40px;
+    font-size: 20px;
+}
+.demo {
+    padding-top: 55px;
+    line-height: 30px;
+    margin-left: 190px;
+}
+.demo h1{
+    font-size: 35px;
+    color: #fff;
+}
+.demo .job{
+color: #fff;
+padding-left: 150px;
+}
+.demo2{
+    line-height: 40px;
+    padding-top: 43px;
+}
+.demo1{
+    display: flex;
+    line-height: 25px;
+    width: 901px;
+    padding-top: 26px;
+}
+.name1{
+    width: 375px;
+    margin-left: 30px;
+}
+.box{
+    background-color: brown;
+    color: white;
+    font-size: 15px;
+    display:inline-block;
+    /* margin-top: 20px; */
+    margin: 8px;
+    border-radius: 5px;
+    padding: 5px 10px 5px;
+}
+.tag{
+    text-align: center;
+    line-height: 20px;
+}
+h2{
+    color:#801814;;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.demo h2{
+    color: white;
+}
+h3{
+    font-weight:bold;
+    font-size: 20px;
+}
+.name{
+    padding-left: 35px;
+    margin-right: 25px;
+
+}
+hr{
+    border: 1px solid brown;
+    margin: 0%;
+    padding: 0%;
+}
+.muthu{
+    line-height: 20mm;
+}
+h4{
+    font-weight: bold;
+    color:hsl(2deg 73% 29%);;
+    font-size: 20px;
+    padding: 10px 0px 10px;
+}
+.bottom{
+padding:5px 0 32px ;
+}
+a{
+    text-decoration: none;
+}
+.sub::before{
+    height: 48px;
+    width: 48px;
+    background-color: rgb(211, 211, 17);
+    position: absolute;
+    content:'';
+    left: -60px;
+}
+.demo{
+    position: relative;
+}
+.ma{
+    display: flex;
+    width: 500px;
+    justify-content: space-around;
+}
+.f-1 p{
+    order: 1;
+    background-color: blue;
+}
+.f-22{    
+    order: 3;
+    background-color: red;
+}
+.f-3{
+order: 2;
+background-color: rgb(21, 218, 109);
+}
+.f-4{
+    background-color: blueviolet;
+}
+.f-5{
+    background-color:burlywood;
+}
